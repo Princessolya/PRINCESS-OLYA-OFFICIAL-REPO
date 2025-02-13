@@ -38,3 +38,8 @@
 
 
 > [SUPPORT GROUP](https://chat.whatsapp.com/BagwKoTMIffFpa8KjpCmEn)
+
+## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝘂𝘀
+* [`𝙷𝚊𝚜𝚒 𝙵𝚎𝚛𝚗𝚊𝚗𝚍𝚘`](https://link_here)
+* [`𝙼𝚊𝚕𝚒𝚗𝚍𝚞 𝙷𝚎𝚜𝚑𝚊𝚗`](https://link_here)
+* [`𝙷𝚊𝚜𝚒𝚗𝚍𝚞 𝙻𝚊𝚕𝚊𝚗𝚔𝚊`](https://link_here)
