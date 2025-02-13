@@ -36,6 +36,4 @@
 
 </details> 
 
-<div align="center">
- > [SUPPORT GROUP](https://chat.whatsapp.com/BagwKoTMIffFpa8KjpCmEn)
-</div>
+
