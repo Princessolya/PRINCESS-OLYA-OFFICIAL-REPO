@@ -16,9 +16,22 @@
 
 ## Powered By: 𝗧𝗲𝗮𝗺 𝗪𝗼𝗹𝗳 𝗠𝗮𝗿𝗲
 
-## 🚀 Features
-✅ **Automated messaging** 📩  
-✅ **Supports images, videos & documents** 🎥📄  
-✅ **Integrates with APIs like Wikipedia, Movie API, and more** 🌍🔍  
-✅ **Customizable commands & plugins** ⚙️ 
-✅ **Support Images,Videos Download** ⬇️
+<b><details><summary>Available Features 👸🔱</summary><br>
+	
+| Features |  Availability |
+| :------: |  :----------: |
+|   Convert     |       🩵     |
+|   Database     |       🩵     |
+|   Owner     |       🩵    |
+|   Downloader     |       🩵     |
+|   Webzone     |       🩵       |
+|   Searching     |       🩵      |
+|   Textpro     |       🩵      |
+|   Ephoto     |       🩵     |
+|   Anime Web     |       🩵      |
+|   Stalker     |       🩵      |
+|   Random Text     |       🩵     |
+|   Random Image     |       🩵     |
+|   Creator     |       🩵      |
+
+</details>
