@@ -15,4 +15,10 @@
 <img src="https://github.com/Princessolya/Princess-Olya-Media-Files/blob/4f24acd496c3e812ad33c6a23b707e27c400dc15/teamlogo.png" width="310"/>
 
 # Powered By: 𝗧𝗲𝗮𝗺 𝗪𝗼𝗹𝗳 𝗠𝗮𝗿𝗲
-#.....
+
+## 🚀 Features
+✅ **Automated messaging** 📩  
+✅ **Supports images, videos & documents** 🎥📄  
+✅ **Integrates with APIs like Wikipedia, Movie API, and more** 🌍🔍  
+✅ **Customizable commands & plugins** ⚙️ 
+✅ **Support Images,Videos Download** ⬇️
