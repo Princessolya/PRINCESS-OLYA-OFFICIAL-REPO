@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.0",
-    "@adiwajshing/keyed-db": "^0.3.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
     "@blackamda/telegram-image-url": "^1.1.0",    
     "@sl-code-lords/movie-api": "^1.1.0",
     "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
